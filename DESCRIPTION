@@ -22,7 +22,7 @@ Imports:
     expm,
     stats4,
     parallel,
-    Rcpp (>= 0.12.18),
+    Rcpp (>= 0.12.14),
     RcppParallel,
     utils,
     stats,
